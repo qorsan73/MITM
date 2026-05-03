@@ -56,6 +56,10 @@ cd MITM
 sudo python3 mitm.py
 ```
 
+# note : 
+
+* This command must be written before running the tool in order for the data to be passed : ``` echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward```
+
 <h1 align="center">How to use</h1>
 
 # Look at the video
