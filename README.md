@@ -32,7 +32,31 @@
 # kali Liux ✅
 # Windows ✅
 # Termux ✖️:
-<h1 align="center">Instructions for use</h1>
-````
+<h1 align="center">Operation commands</h1>
+
+```
+sudo apt update
+```
+```
+sudo apt install python3 python3-pip -y
+```
+```
+sudo pip3 install scapy
+```
+```
+echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
+```
+```
 git clone https://github.com/qorsan73/MITM
-````
+```
+```
+cd MITM
+```
+```
+sudo python3 mitm.py
+```
+
+<h1 align="center">How to use</h1>
+
+# Look at the video
+
