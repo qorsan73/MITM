@@ -31,5 +31,5 @@ This tool detects users on the network, identifies the victim, and intercepts da
 
 # kali Liux ✅
 # Windows ✅
-# Termux :X:
+# Termux ✖️:
 <h1 align="center">Instructions for use</h1>
