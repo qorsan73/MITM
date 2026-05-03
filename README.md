@@ -1,5 +1,9 @@
 <img width="1408" height="768" alt="Gemini_Generated_Image_hvpx20hvpx20hvpx" src="https://github.com/user-attachments/assets/caaaaf99-e9d8-48e4-b7c0-8eff760eed92" />
 
+
+https://github.com/user-attachments/assets/36ebde47-55fb-4170-a939-149be379ac84
+
+
 <h1 align="center">MITM</h1>
 # This tool detects users on the network, identifies the victim, and intercepts data between them and the router. The data is sent to the router by the attacker.
 <h1 align="center">Features</h1>
@@ -36,6 +40,8 @@
 
 ```
 sudo apt update
+
+
 ```
 ```
 sudo apt install python3 python3-pip -y
@@ -63,4 +69,8 @@ sudo python3 mitm.py
 <h1 align="center">How to use</h1>
 
 # Look at the video
+
+
+
+https://github.com/user-attachments/assets/16603866-a7a4-450b-b532-a0c5e0cc2cd2
 
