@@ -66,7 +66,6 @@ sudo python3 mitm.py
 # Look at the video
 
 
-
-https://github.com/user-attachments/assets/9f5dfd12-f82e-4ca2-916b-8e2ba5e1e7bd
+https://github.com/user-attachments/assets/35428b2c-5a21-4f9a-ba96-af23a6c5742e
 
 
