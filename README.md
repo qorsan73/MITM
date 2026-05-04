@@ -1,9 +1,4 @@
 <img width="1408" height="768" alt="Gemini_Generated_Image_hvpx20hvpx20hvpx" src="https://github.com/user-attachments/assets/caaaaf99-e9d8-48e4-b7c0-8eff760eed92" />
-
-
-https://github.com/user-attachments/assets/36ebde47-55fb-4170-a939-149be379ac84
-
-
 <h1 align="center">MITM</h1>
 # This tool detects users on the network, identifies the victim, and intercepts data between them and the router. The data is sent to the router by the attacker.
 <h1 align="center">Features</h1>
@@ -72,5 +67,6 @@ sudo python3 mitm.py
 
 
 
-https://github.com/user-attachments/assets/f86552b9-f606-4891-8f08-32a027ec6776
+https://github.com/user-attachments/assets/9f5dfd12-f82e-4ca2-916b-8e2ba5e1e7bd
+
 
